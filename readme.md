@@ -1,22 +1,22 @@
-# Ejercicio: Juego de Piedra, Papel o Tijera sin forEach
+# Ejercicio: Juego de Piedra, Papel o Tijera
 
-En este ejercicio, crearemos un juego de "Piedra, Papel o Tijera" utilizando HTML, CSS y JavaScript sin el uso de forEach. El juego permitirá a los usuarios elegir una de las tres opciones, compararla con la elección de la computadora y mostrar el resultado en la página.
+En este ejercicio, crearemos un juego de "Piedra, Papel o Tijera" utilizando HTML, CSS y JavaScript sin el uso de forEach. El juego permitirá a los usuarios elegir una de las tres opciones, compararla con la elección del ordenador y mostrar el resultado en la página.
 
 ## Pasos del ejercicio:
 
 1. En el archivo JavaScript, agrega eventos de clic a cada botón por separado que permitan al usuario elegir su jugada y comparen el resultado.
 
-2. Genera una jugada aleatoria para la computadora.
+2. Genera una jugada aleatoria para el ordenador.
 
-3. Compara la elección del usuario con la elección de la computadora y muestra el resultado en el área de resultados.
+3. Compara la elección del usuario con la elección del ordenador y muestra el resultado en el área de resultados.
 
-4. Actualiza el contador de puntos para el usuario y la computadora según el resultado.
+4. Actualiza el contador de puntos para el usuario y el ordenador según el resultado.
 
 5. Muestra el resultado en el HTML utilizando `textContent` o `innerHTML`en el div `resultados` 
 
 
 
-1. Crea un archivo HTML con botones para "Piedra," "Papel" y "Tijera," un área de resultados (`<div>`) y un contador de puntos para el usuario y la computadora.
+1. Crea un archivo HTML con botones para "Piedra," "Papel" y "Tijera," un área de resultados (`<div>`) y un contador de puntos para el usuario y el ordenador.
 
 2. Crea un archivo CSS para dar estilo a los elementos HTML y asegurarte de que el juego se vea atractivo.
 
